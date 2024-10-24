@@ -50,7 +50,7 @@ const Model = () => {
     },[])
   return (
     <section className='common-padding'>
-        <div className='screeen-max-width'>
+        <div className='screen-max-width'>
             <h1 id='heading' className='section-heading'>
                 Take a closer look.
             </h1>

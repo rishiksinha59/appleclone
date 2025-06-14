@@ -1,5 +1,7 @@
 # iPhone Clone
 
+Deployed link: https://appleclone-theta.vercel.app/
+
 iPhone clone features stunning iPhone page inspired from apple.com
 
 # Functionalities Added
